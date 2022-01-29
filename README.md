@@ -6,4 +6,4 @@
 
 ![Starzbots Git Stats](https://github-readme-stats.vercel.app/api?username=starzbots&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starzbots&layout=compact&theme=radical)](https://github.com/satyanandatripathi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starzbots&layout=compact&theme=radical)](https://github.com/starzbots) 
